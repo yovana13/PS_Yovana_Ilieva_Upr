@@ -1,0 +1,14 @@
+﻿19.3.2022 19:43:20;Anaana;ADMIN;Successfully logged in
+19.3.2022 19:43:42;Anaana;ADMIN;Activity changed for Anaana
+19.3.2022 19:55:36;Anaana;ADMIN;Successfully logged in
+19.3.2022 19:57:35;Anaana;ADMIN;Role changed for Anaana
+21.3.2022 22:14:16;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:39:44;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:40:36;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:40:59;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:49:31;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:51:58;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:52:57;Anaana;ADMIN;Successfully logged in
+21.3.2022 22:56:17;Anaana;ADMIN;Successfully logged in
+17.5.2022 19:44:37;Anaana;ADMIN;Successfully logged in
+17.5.2022 19:45:26;Anaana;ADMIN;Role changed for Anaana
