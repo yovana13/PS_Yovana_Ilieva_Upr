@@ -89,14 +89,18 @@ namespace StudentInfoSystem
 
         }
 
-        public void copyDataForEmpty()
+        public void copyDataForEmpty(object sender, RoutedEventArgs e)
         {
             if (TestStudentsIfEmpty())
             {
                 CopyTestStudents();
                 CopyTestUsers();
+                MessageBox.Show("No students found in DB!");
             }
+            else
+            MessageBox.Show("Students found in DB!");
         }
+        
         private bool TestStudentsIfEmpty()
         {
             StudentInfoContext context = new StudentInfoContext();
@@ -112,6 +116,7 @@ namespace StudentInfoSystem
         private void CopyTestStudents()
         {
             StudentInfoContext context = new StudentInfoContext();
+            StudentData.AddStudents();
             foreach (Student st in StudentData.TestStudents)
             {
                 context.Students.Add(st);
